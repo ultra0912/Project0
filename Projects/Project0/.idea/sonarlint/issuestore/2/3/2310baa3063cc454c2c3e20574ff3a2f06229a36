@@ -1,0 +1,10 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "USER_NAME" 3 times.(ˆ»¶²ýÿÿÿÿ8Š¬ÁÁ‘/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬–§àþÿÿÿÿ
+g
+java:S1192"JDefine a constant instead of duplicating this literal "PASS_WORD" 3 times.(Ïçë×8Š¬ÁÁ‘/
+j
+java:S1192""HDefine a constant instead of duplicating this literal "BALANCE" 3 times.(÷†½ìüÿÿÿÿ8Š¬ÁÁ‘/
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8Ö¡çÀ‘/

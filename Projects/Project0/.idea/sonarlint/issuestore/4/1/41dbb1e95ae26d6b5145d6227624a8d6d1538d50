@@ -1,0 +1,11 @@
+
+
+java:S1192T"]Define a constant instead of duplicating this literal "Please Enter your password: " 3 times.(àçúÿÿÿÿ8“ù…Á‘/
+€
+java:S1192P"^Define a constant instead of duplicating this literal "
+Please Enter your username: " 3 times.(¥õ”™üÿÿÿÿ8“ù…Á‘/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Çµí‘8“ù…Á‘/
+V
+java:S1854$":Remove this useless assignment to local variable "client".(Ù³ıD8ìÏ½‘/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Û‰¨ÿÿÿÿÿ8æœ½‘/
