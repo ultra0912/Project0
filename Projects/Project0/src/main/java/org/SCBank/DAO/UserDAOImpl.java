@@ -25,13 +25,13 @@ public class UserDAOImpl implements UserDAO {
 
             while (rs.next()) {
                 User u = new User();
-                String userId = rs.getString("USER_NAME");
+                String userId = rs.getString("username");
                 u.setUserId(userId);
 
-                String password = rs.getString("PASS_WORD");
+                String password = rs.getString("password");
                 u.setPassword(password);
 
-                float balance = rs.getFloat("BALANCE");
+                float balance = rs.getFloat("balance");
                 u.setBalance(balance);
 
                 userList.add(u);
@@ -48,7 +48,7 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public User getUserById(String id) {
         User u = null;
-        String sql = "SELECT * FROM BANK_USERS WHERE USER_NAME = ?";
+        String sql = "SELECT * FROM BANK_USERS WHERE username = ?";
 
         ResultSet rs = null;
 
@@ -59,9 +59,9 @@ public class UserDAOImpl implements UserDAO {
             rs = ps.executeQuery();
 
             while (rs.next()) {
-                String userId = rs.getString("USER_NAME");
-                String password = rs.getString("PASS_WORD");
-                float balance = rs.getFloat("BALANCE");
+                String userId = rs.getString("username");
+                String password = rs.getString("password");
+                float balance = rs.getFloat("balance");
 
                 u = new User(userId, password, balance);
             }
@@ -84,7 +84,7 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public User getUserById(String id, Connection con) {
         User u = null;
-        String sql = "SELECT * FROM BANK_USERS WHERE USER_NAME = ?";
+        String sql = "SELECT * FROM BANK_USERS WHERE username = ?";
 
         ResultSet rs = null;
 
@@ -94,9 +94,9 @@ public class UserDAOImpl implements UserDAO {
             rs = ps.executeQuery();
 
             while (rs.next()) {
-                String userId = rs.getString("USER_NAME");
-                String password = rs.getString("PASS_WORD");
-                float balance = rs.getFloat("BALANCE");
+                String userId = rs.getString("username");
+                String password = rs.getString("password");
+                float balance = rs.getFloat("balance");
 
                 u = new User(userId, password, balance);
             }
@@ -118,7 +118,7 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public int createUser(User user) {
         int usersCreated = 0;
-        String sql = "INSERT INTO BANK_USERS (USER_NAME, PASS_WORD, BALANCE) VALUES (?,?,?)";
+        String sql = "INSERT INTO Bank_user (username, password, balance) VALUES (?,?,?)";
 
         try (Connection con = PostgresConnection.getConnection();
              PreparedStatement ps = con.prepareStatement(sql)) {
@@ -139,9 +139,9 @@ public class UserDAOImpl implements UserDAO {
         int usersUpdated = 0;
 
         String sql = "UPDATE BANK_USERS "
-                + "SET PASS_WORD = ?,"
-                + "SET BALANCE = ? "
-                + "WHERE USER_NAME = ?";
+                + "SET password = ?,"
+                + "SET balance = ? "
+                + "WHERE username = ?";
 
         try (Connection con = PostgresConnection.getConnection();
              PreparedStatement ps = con.prepareStatement(sql)) {
@@ -164,7 +164,7 @@ public class UserDAOImpl implements UserDAO {
     public int deleteUserById(String id) {
         int rowsDeleted = 0;
 
-        String sql = "DELETE FROM BANK_USERS WHERE USER_NAME = ?";
+        String sql = "DELETE FROM BANK_USERS WHERE username = ?";
 
         try (Connection con = PostgresConnection.getConnection();
              PreparedStatement ps = con.prepareStatement(sql)) {

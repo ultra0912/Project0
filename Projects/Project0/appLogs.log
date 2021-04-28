@@ -208,3 +208,51 @@ Please Enter your username:          Apr-28-21 Wednesday CDT 06:30:31
   Position: 15         Apr-28-21 Wednesday CDT 07:03:16      
 [WARN]    - {org.SCBank.DAO.UserDAOImpl}    This connection has been closed.         Apr-28-21 Wednesday CDT 07:03:16      
 [INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter password:          Apr-28-21 Wednesday CDT 07:03:16      
+[WARN]    - {org.SCBank.Driver.BankAppDriver}    PostgreSQL JDBC Driver         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    ===================         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Welcome to SC Bank         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    ===================         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    1: Sign up         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    2: Deposit         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    3: Withdraw         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    4: Balance         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    5: exit         Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter your choice(1-5) :          Apr-28-21 Wednesday CDT 07:15:10      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Thank you for choosing SC Bank         Apr-28-21 Wednesday CDT 07:15:13      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter username         Apr-28-21 Wednesday CDT 07:15:13      
+[WARN]    - {org.SCBank.DAO.UserDAOImpl}    ERROR: relation "bank_users" does not exist
+  Position: 15         Apr-28-21 Wednesday CDT 07:15:16      
+[WARN]    - {org.SCBank.DAO.UserDAOImpl}    This connection has been closed.         Apr-28-21 Wednesday CDT 07:15:16      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter password:          Apr-28-21 Wednesday CDT 07:15:16      
+[WARN]    - {org.SCBank.Driver.BankAppDriver}    PostgreSQL JDBC Driver         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    ===================         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Welcome to SC Bank         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    ===================         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    1: Sign up         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    2: Deposit         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    3: Withdraw         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    4: Balance         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    5: exit         Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter your choice(1-5) :          Apr-28-21 Wednesday CDT 07:16:03      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Thank you for choosing SC Bank         Apr-28-21 Wednesday CDT 07:16:08      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter username         Apr-28-21 Wednesday CDT 07:16:08      
+[WARN]    - {org.SCBank.DAO.UserDAOImpl}    ERROR: relation "bank_users" does not exist
+  Position: 15         Apr-28-21 Wednesday CDT 07:16:13      
+[WARN]    - {org.SCBank.DAO.UserDAOImpl}    This connection has been closed.         Apr-28-21 Wednesday CDT 07:16:13      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter password:          Apr-28-21 Wednesday CDT 07:16:13      
+[WARN]    - {org.SCBank.Driver.BankAppDriver}    PostgreSQL JDBC Driver         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    ===================         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Welcome to SC Bank         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    ===================         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    1: Sign up         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    2: Deposit         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    3: Withdraw         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    4: Balance         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    5: exit         Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter your choice(1-5) :          Apr-28-21 Wednesday CDT 07:19:50      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Thank you for choosing SC Bank         Apr-28-21 Wednesday CDT 07:19:53      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter username         Apr-28-21 Wednesday CDT 07:19:53      
+[WARN]    - {org.SCBank.DAO.UserDAOImpl}    ERROR: relation "bank_users" does not exist
+  Position: 15         Apr-28-21 Wednesday CDT 07:19:57      
+[WARN]    - {org.SCBank.DAO.UserDAOImpl}    This connection has been closed.         Apr-28-21 Wednesday CDT 07:19:57      
+[INFO]    - {org.SCBank.Driver.BankAppDriver}    Enter password:          Apr-28-21 Wednesday CDT 07:19:57      
