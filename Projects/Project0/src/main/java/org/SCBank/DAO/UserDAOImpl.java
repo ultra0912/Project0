@@ -17,7 +17,7 @@ public class UserDAOImpl implements UserDAO {
     public List<User> getUser() {
         List<User> userList = new ArrayList<>();
 
-        String sql = "SELECT * FROM BANK_USERS";
+        String sql = "SELECT * FROM SCBank_schema.BANK_USER";
 
         try (Connection con = PostgresConnection.getConnection();
              Statement s = con.createStatement();
@@ -48,7 +48,7 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public User getUserById(String id) {
         User u = null;
-        String sql = "SELECT * FROM BANK_USERS WHERE username = ?";
+        String sql = "SELECT * FROM SCBank_schema.BANK_USERS WHERE username = ?";
 
         ResultSet rs = null;
 
@@ -84,7 +84,7 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public User getUserById(String id, Connection con) {
         User u = null;
-        String sql = "SELECT * FROM BANK_USERS WHERE username = ?";
+        String sql = "SELECT * FROM SCBank_schema.BANK_USERS WHERE username = ?";
 
         ResultSet rs = null;
 
@@ -118,7 +118,7 @@ public class UserDAOImpl implements UserDAO {
     @Override
     public int createUser(User user) {
         int usersCreated = 0;
-        String sql = "INSERT INTO Bank_user (username, password, balance) VALUES (?,?,?)";
+        String sql = "INSERT INTO SCBank_schema.Bank_user (username, password, balance) VALUES (?,?,?)";
 
         try (Connection con = PostgresConnection.getConnection();
              PreparedStatement ps = con.prepareStatement(sql)) {
@@ -138,7 +138,7 @@ public class UserDAOImpl implements UserDAO {
     public int updateUser(User user) {
         int usersUpdated = 0;
 
-        String sql = "UPDATE BANK_USERS "
+        String sql = "UPDATE SCBank_schema.BANK_USERS "
                 + "SET password = ?,"
                 + "SET balance = ? "
                 + "WHERE username = ?";
@@ -164,7 +164,7 @@ public class UserDAOImpl implements UserDAO {
     public int deleteUserById(String id) {
         int rowsDeleted = 0;
 
-        String sql = "DELETE FROM BANK_USERS WHERE username = ?";
+        String sql = "DELETE FROM SCBank_schema.BANK_USERS WHERE username = ?";
 
         try (Connection con = PostgresConnection.getConnection();
              PreparedStatement ps = con.prepareStatement(sql)) {
@@ -179,34 +179,13 @@ public class UserDAOImpl implements UserDAO {
     }
 
     @Override
-    public void makeDeposit(String userName, float amount) {
-        String sql = "{call DEPOSIT_AMOUNT(?,?)}";
+    public void makeDeposit(String userId, float depositAmount) {
 
-        try (Connection con = PostgresConnection.getConnection();
-             CallableStatement cs = con.prepareCall(sql)) {
-
-            cs.setString(1, userName);
-            cs.setFloat(2, amount);
-            cs.execute();
-            log.info("deposit added");
-        } catch (SQLException e) {
-            log.warn((e.getMessage()));
-        }
     }
 
     @Override
-    public void makeWithdrawal(String userName, float amount) {
-        String sql = "{call WITHDRAW_AMOUNT(?,?)}";
+    public void makeWithdrawal(String userId, float withdrawAmount) {
 
-        try (Connection con = PostgresConnection.getConnection();
-             CallableStatement cs = con.prepareCall(sql)) {
-
-            cs.setString(1, userName);
-            cs.setFloat(2, amount);
-            cs.execute();
-            log.info("amount withdrawn");
-        } catch (SQLException e) {
-            log.warn((e.getMessage()));
-        }
     }
+
 }

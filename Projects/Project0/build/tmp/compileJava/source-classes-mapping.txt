@@ -4,6 +4,8 @@ org/SCBank/DAO/UserDAO.java
  org.SCBank.DAO.UserDAO
 org/SCBank/model/Account.java
  org.SCBank.model.Account
+org/SCBank/model/Employee.java
+ org.SCBank.model.Employee
 org/SCBank/model/User.java
  org.SCBank.model.User
 org/SCBank/Driver/BankAppDriver.java
