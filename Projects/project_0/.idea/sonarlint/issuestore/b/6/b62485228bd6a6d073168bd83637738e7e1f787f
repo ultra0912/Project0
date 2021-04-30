@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊªÎ
+t	java:S116"XRename this field "CustomerLname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôöÁ8ØÜô‘/
+y	java:S116"XRename this field "CustomerFname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÃïúÿÿÿÿ8ØÜô‘/
+Œ
+java:S4165"oRemove this useless assignment; "checkingAccountId" already holds the assigned value along all execution paths.(Ó„Ùë8Ùı”’/
+ˆ
+java:S4165"fRemove this useless assignment; "username" already holds the assigned value along all execution paths.(ğ„ªıÿÿÿÿ8Ùı”’/
+ƒ
+java:S4165"fRemove this useless assignment; "password" already holds the assigned value along all execution paths.(÷ã´½8Ùı”’/
+‹
+java:S4165"nRemove this useless assignment; "savingsAccountId" already holds the assigned value along all execution paths.(†£š™8Ùı”’/

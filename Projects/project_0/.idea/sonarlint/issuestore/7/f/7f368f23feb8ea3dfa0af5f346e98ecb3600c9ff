@@ -1,0 +1,45 @@
+
+?
+java:S1118"Hide this public constructor.(Œ‘Î¥ûÿÿÿÿ8Ó¿Œ’/
+K	java:S108Ü")Either remove or fill this block of code.(é–³öûÿÿÿÿ8‹ì£Œ’/
+R
+java:S3740é"/Provide the parametrized type for this generic.(Á÷Û‰ùÿÿÿÿ8¢¬®Œ’/
+ƒ
+java:S1192l"aDefine a constant instead of duplicating this literal "Your Checking Account Balance: $" 3 times.(¸ì¶ øÿÿÿÿ8éŞ™Œ’/
+D
+java:S3416"'Update this logger to use "Menu.class".(–ü„ú8±‡Øû‘/
+m	java:S128j"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8éŞ™Œ’/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¨ñç
+_
+java:S18546"BRemove this useless assignment to local variable "createEmployee".(¦õº¦8ĞÄÿ†’/
+c
+java:S1854é"@Remove this useless assignment to local variable "customerList".(Á÷Û‰ùÿÿÿÿ8Ä¹²Œ’/
+d
+java:S18542"BRemove this useless assignment to local variable "createCustomer".(…›çşúÿÿÿÿ8±‡Øû‘/
+R
+java:S2209"5Change this instance-reference to a static reference.(ü®ğ8±‡Øû‘/
+m
+java:S1192•"JDefine a constant instead of duplicating this literal "Thank You" 3 times.(¼°»Ôÿÿÿÿÿ8êÇ¹Œ’/
+=
+java:S3010" Remove this assignment of "cdi".(ü®ğ8±‡Øû‘/
+}
+java:S1192q"`Define a constant instead of duplicating this literal "Your Savings Account Balance: $" 4 times.(‰Œø„8éŞ™Œ’/
+m	java:S1289"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8‡Áï‹’/
+J	java:S108e")Either remove or fill this block of code.(é–³öûÿÿÿÿ8ş®ş†’/
+J	java:S108-")Either remove or fill this block of code.(é–³öûÿÿÿÿ8±‡Øû‘/
+U
+java:S1854ã"7Remove this useless assignment to local variable "cId".(›ô‡±8¯§§Œ’/
+B
+java:S3010" Remove this assignment of "edi".(ãÃÃÉıÿÿÿÿ8±‡Øû‘/
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8±‡Øû‘/
+K	java:S108²")Either remove or fill this block of code.(é–³öûÿÿÿÿ8¢¥Û‹’/
+R
+java:S3740ù"/Provide the parametrized type for this generic.(ì¬â•şÿÿÿÿ8ÄÕ¶Œ’/
+W
+java:S2209"5Change this instance-reference to a static reference.(ãÃÃÉıÿÿÿÿ8±‡Øû‘/
+\
+java:S1854ù"9Remove this useless assignment to local variable "tList".(ì¬â•şÿÿÿÿ8ÄÕ¶Œ’/
+n	java:S128Ä"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8¢¥Û‹’/
+{
+java:S1192Y"^Define a constant instead of duplicating this literal "+++++++++++++++++++++++++++++" 3 times.(·Êé²8¢¥Û‹’/

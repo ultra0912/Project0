@@ -1,0 +1,46 @@
+
+r
+java:S2095¡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û®‡£ÿÿÿÿÿ8’¸‹’/
+r
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8’¸‹’/
+r
+java:S2095³"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8…ÓíŒ’/
+F	java:S108À")Either remove or fill this block of code.(É®£8…ÓíŒ’/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„æ«„ıÿÿÿÿ
+F	java:S108à")Either remove or fill this block of code.(É®£8à¾ÛŒ’/
+l
+java:S2095“"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸ã¸^8¯úåŒ’/
+m
+java:S2095È"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÅĞ™ğ8±ÊÍˆ’/
+q
+java:S2095q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8š÷«‹’/
+r
+java:S2095Á"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8±ÊÍˆ’/
+r
+java:S2095è"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¾„¥Š’/
+F	java:S108ı")Either remove or fill this block of code.(É®£8¶ÂÙŒ’/
+\
+java:S1481Š"9Remove this unused "createSavingsAccount" local variable.(İ±ƒÿÿÿÿÿ8ïÍ³‹’/
+R
+java:S1128"0Remove this unused import 'javafx.geometry.Pos'.(ÌÆ÷Ùøÿÿÿÿ8õÄåŒ’/
+F	java:S108š")Either remove or fill this block of code.(É®£8ù•äŒ’/
+q
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Áåèü‘/
+q
+java:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(û®‡£ÿÿÿÿÿ8š÷«‹’/
+q
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Â¨Ãõ‘/
+r
+java:S2095î"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¶ÂÙŒ’/
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¯úåŒ’/
+E	java:S108}")Either remove or fill this block of code.(É®£8ÊÛ¥‹’/
+r
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8—¿ÜŒ’/
+m
+java:S2095ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÅĞ™ğ8¾„¥Š’/
+F	java:S108¦")Either remove or fill this block of code.(É®£8Ú„³‹’/
+F	java:S108õ")Either remove or fill this block of code.(É®£8¾„¥Š’/
+l
+java:S2095¹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸ã¸^8…ÓíŒ’/
+F	java:S108Î")Either remove or fill this block of code.(É®£8±ÊÍˆ’/

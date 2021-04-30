@@ -1,0 +1,983 @@
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-27-21  Tuesday CDT 23:35:44     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-27-21  Tuesday CDT 23:35:44     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-27-21  Tuesday CDT 23:35:44     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-27-21  Tuesday CDT 23:35:44     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-27-21  Tuesday CDT 23:52:34     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-27-21  Tuesday CDT 23:52:34     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-27-21  Tuesday CDT 23:52:34     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-27-21  Tuesday CDT 23:52:34     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-27-21  Tuesday CDT 23:52:34     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-27-21  Tuesday CDT 23:52:40     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-27-21  Tuesday CDT 23:52:40     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 03:02:38     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 03:02:38     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 03:02:38     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 03:02:38     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 03:02:38     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 03:02:45     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 03:02:45     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 03:17:40     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 03:17:40     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 03:17:40     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 03:17:40     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 03:17:40     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 03:17:46     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 03:17:46     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:24:04     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:24:04     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:24:04     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:24:04     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:24:04     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:24:10     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:24:10     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:37:51     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:37:51     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:37:51     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:37:51     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:37:51     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:37:58     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:37:58     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:42:54     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:42:54     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:42:54     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:42:54     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:42:54     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:43:02     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:43:02     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:43:07     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:43:07     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:43:10     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:43:10     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:50:02     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:50:02     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:50:02     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:50:02     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:50:02     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:50:11     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:50:11     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:51:48     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:51:48     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:51:48     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:51:48     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:51:48     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:51:55     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:51:55     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:51:55     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:51:55     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:51:55     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:52:00     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:52:00     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:52:37     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:52:37     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:52:37     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:52:37     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:52:37     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:52:44     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:52:44     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:56:20     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:56:20     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:56:20     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:56:20     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:56:20     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:56:26     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:56:26     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:58:23     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 04:58:23     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 04:58:23     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 04:58:23     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:58:23     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 04:58:32     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 04:58:32     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 05:00:14     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:00:14     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 05:00:20     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:00:20     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 05:00:23     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:00:23     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 05:00:25     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:00:25     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 05:00:29     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:00:29     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 05:30:47     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 05:30:47     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 05:30:47     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 05:30:47     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:30:47     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 05:30:55     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 05:30:55     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 06:54:49     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 06:54:49     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 06:54:49     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 06:54:49     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 06:54:49     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 06:54:59     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 06:54:59     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 06:55:02     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 06:55:02     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 06:56:54     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 06:56:54     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 06:56:54     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 06:56:54     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 06:56:54     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 06:57:03     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 06:57:03     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 08:33:35     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 08:33:35     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 08:33:35     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 08:33:35     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:33:35     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:33:41     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:33:41     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 08:37:40     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 08:37:40     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 08:37:40     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 08:37:40     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:37:40     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:37:46     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:37:46     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 08:41:56     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 08:41:56     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 08:41:56     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 08:41:56     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:41:56     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:42:00     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:42:00     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:42:07     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:42:07     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:43:53     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:43:59     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:43:59     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:44:04     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:44:04     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 08:44:12     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 08:44:12     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 09:04:33     
+[INFO]    - {com.SCBank.Driver.Menu}      Welcome to SC Bank!!     Apr-28-21  Wednesday CDT 09:04:33     
+[INFO]    - {com.SCBank.Driver.Menu}      =====================     Apr-28-21  Wednesday CDT 09:04:33     
+[INFO]    - {com.SCBank.Driver.Menu}           Apr-28-21  Wednesday CDT 09:04:33     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 09:04:33     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 09:04:41     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 09:04:41     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 09:04:41     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 09:04:41     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 09:04:46     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 09:04:46     
+[WARN]    - {com.SCBank.Driver.Menu}      Username is invalid 
+     Apr-28-21  Wednesday CDT 09:04:51     
+[INFO]    - {com.SCBank.Driver.Menu}      Enter 1 to create account or enter your username to log in     Apr-28-21  Wednesday CDT 09:04:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 15:52:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 15:52:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 15:52:33     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 15:52:40     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 15:52:44     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 15:52:46     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 15:52:50     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 15:52:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 15:53:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:12:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 16:13:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:13:04     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:13:10     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:13:13     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:13:15     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:13:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:13:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 16:13:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:24:10     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:24:20     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:24:22     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:24:24     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:24:27     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:24:31     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:24:52     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:24:59     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:25:02     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:25:04     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:25:07     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:25:30     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:25:35     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:25:37     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:25:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:25:49     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:25:55     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:25:59     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:26:01     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:26:04     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:26:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:27:35     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:27:40     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:27:42     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:27:44     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:27:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:27:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 16:27:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:30:23     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:30:28     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:30:31     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:30:32     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:30:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:30:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:37:26     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:37:32     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:37:34     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:37:36     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:37:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:37:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:38:15     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:38:22     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:38:24     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:38:26     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:38:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:38:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 16:39:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:42:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:42:36     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:43:32     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 16:43:37     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 16:43:41     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 16:43:43     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:43:45     
+[WARN]    - {com.SCBank.DAO.CustomerDAOImpl}      org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "customer_user_name_key"
+  Detail: Key (user_name)=(test) already exists.     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:43:49     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:52:38     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 16:52:44     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:52:47     
+[WARN]    - {com.SCBank.DAO.CustomerDAOImpl}      org.postgresql.util.PSQLException: No value specified for parameter 2.     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:52:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:54:47     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 16:55:18     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 16:55:20     
+[WARN]    - {com.SCBank.DAO.CustomerDAOImpl}      org.postgresql.util.PSQLException: No value specified for parameter 2.     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 16:55:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 17:05:15     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 17:05:20     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 17:05:22     
+[WARN]    - {com.SCBank.DAO.CustomerDAOImpl}      org.postgresql.util.PSQLException: No value specified for parameter 2.     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 17:05:25     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 17:05:25     
+[WARN]    - {com.SCBank.Driver.BankDriver}      Please Choose between 1-8     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 17:05:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 17:06:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 17:06:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 22:18:17     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 22:18:22     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 22:18:25     
+[WARN]    - {com.SCBank.DAO.CustomerDAOImpl}      org.postgresql.util.PSQLException: No value specified for parameter 2.     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 22:18:28     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Checking Account Balance: $0.0     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 22:19:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Customer Log In     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Employee Log In     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. EXIT     Apr-29-21  Thursday CDT 22:20:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 22:20:03     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 22:46:02     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 22:46:08     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 22:46:11     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 22:46:13     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 22:46:17     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 22:46:21     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 22:46:27     
+[WARN]    - {com.SCBank.DAO.CustomerDAOImpl}      org.postgresql.util.PSQLException: This connection has been closed.     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 22:46:30     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 22:46:40     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 22:46:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 22:47:46     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 22:48:12     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 22:48:17     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 22:48:21     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 22:48:23     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 22:48:29     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 22:48:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 22:48:51     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 22:48:56     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 22:49:00     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 22:49:01     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 22:49:04     
+[WARN]    - {com.SCBank.DAO.EmployeeDAOImpl}      org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "employee_user_name_key"
+  Detail: Key (user_name)=(admin2) already exists.     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 22:49:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:00:21     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 23:00:27     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 23:00:38     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:00:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:00:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 23:00:57     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:07:42     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 23:07:48     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 23:07:50     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:07:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Checking Account Balance: $0.0     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:08:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Savings Account Balance: $0.0     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:08:13     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Checking Account Balance: $0.0     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:08:16     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Savings Account Balance: $0.0     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:08:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:08:20     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 23:08:23     
+[INFO]    - {com.SCBank.DAO.EmployeeDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 23:08:27     
+[WARN]    - {com.SCBank.DAO.EmployeeDAOImpl}      org.postgresql.util.PSQLException: This connection has been closed.     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:08:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 23:08:39     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:40:00     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 23:40:04     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 23:40:08     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:40:12     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter Your Deposit Amount     Apr-29-21  Thursday CDT 23:40:21     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Checking Account Balance: $100.0     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:40:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:40:41     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 23:40:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:42:34     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:48:29     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-29-21  Thursday CDT 23:48:36     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-29-21  Thursday CDT 23:48:43     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-29-21  Thursday CDT 23:48:47     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 23:48:53     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:48:59     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-29-21  Thursday CDT 23:49:14     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-29-21  Thursday CDT 23:49:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:49:20     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter Your Deposit Amount     Apr-29-21  Thursday CDT 23:49:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Your Checking Account Balance: $100.0     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-29-21  Thursday CDT 23:49:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-29-21  Thursday CDT 23:49:42     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-29-21  Thursday CDT 23:49:44     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-30-21  Friday CDT 00:07:01     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 00:07:07     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 00:07:11     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-30-21  Friday CDT 00:07:14     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-30-21  Friday CDT 00:21:43     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 00:21:51     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 00:21:55     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-30-21  Friday CDT 00:23:18     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-30-21  Friday CDT 00:25:01     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 00:25:07     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 00:25:10     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-30-21  Friday CDT 00:26:05     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 00:26:11     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 00:26:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-30-21  Friday CDT 00:26:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-30-21  Friday CDT 00:26:33     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 00:26:37     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 00:26:39     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create New Account     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Customer Log In     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Employee Log In     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. EXIT     Apr-30-21  Friday CDT 00:27:24     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 00:27:46     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 00:27:48     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-30-21  Friday CDT 00:27:51     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create Customer Account     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Create Bank Account     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Customer Log In     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Employee Log In     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. EXIT     Apr-30-21  Friday CDT 01:58:29     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your First Name:     Apr-30-21  Friday CDT 01:58:42     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Last Name:     Apr-30-21  Friday CDT 01:58:47     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Username:     Apr-30-21  Friday CDT 01:58:49     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 01:58:52     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-30-21  Friday CDT 01:58:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Please Choose Accounts You Want to Open     Apr-30-21  Friday CDT 01:58:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Checking     Apr-30-21  Friday CDT 01:58:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Savings     Apr-30-21  Friday CDT 01:58:56     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. EXIT     Apr-30-21  Friday CDT 01:58:56     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter Initial Deposit Amount on Checking Account     Apr-30-21  Friday CDT 01:59:06     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You for Choosing SC Bank.  You Opened Checking Account     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create Customer Account     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Create Bank Account     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Customer Log In     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Employee Log In     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. EXIT     Apr-30-21  Friday CDT 01:59:09     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please Enter your Username:     Apr-30-21  Friday CDT 01:59:15     
+[INFO]    - {com.SCBank.DAO.CustomerDAOImpl}      Please enter your Password:     Apr-30-21  Friday CDT 01:59:17     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome null null     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      +++++++++++++++++++++++++++++     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Deposit to Checking Account     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Deposit to Savings Account     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Withdraw from Checking Account     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Withdraw from  Savings Account     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Checking Account Balance     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. Savings Account Balance     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      7. Total Balance     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      8. EXIT     Apr-30-21  Friday CDT 01:59:19     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank You     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Welcome to SC Bank     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      =======================     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      1. Create Customer Account     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      2. Create Employee Account     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      3. Create Bank Account     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      4. Customer Log In     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      5. Employee Log In     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      6. EXIT     Apr-30-21  Friday CDT 01:59:22     
+[INFO]    - {com.SCBank.Driver.BankDriver}      Thank you, See you Soon     Apr-30-21  Friday CDT 01:59:24     

@@ -1,0 +1,24 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„æ«„ıÿÿÿÿ
+^	java:S125“"<This block of commented-out lines of code should be removed.(­±ˆ¦ûÿÿÿÿ8­‡©’/
+F	java:S108†")Either remove or fill this block of code.(É®£8Óíš’/
+F	java:S108±")Either remove or fill this block of code.(É®£8ãÅşŒ’/
+R
+java:S1128"0Remove this unused import 'javafx.geometry.Pos'.(ÌÆ÷Ùøÿÿÿÿ8Ù§ûŒ’/
+r
+java:S2095¥"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ãÅşŒ’/
+
+java:S1488’"dImmediately return this expression instead of assigning it to the temporary variable "customerList".(í«\8­‡©’/
+‚
+java:S1488\"`Immediately return this expression instead of assigning it to the temporary variable "customer".(Ç§è¸ûÿÿÿÿ8ö´¨’/
+>
+java:S1116H"Remove this empty statement.(Åñ­õşÿÿÿÿ8ùÂ¢‡’/
+q
+java:S2095I"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8í ‡’/
+q
+java:S2095~"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®Î›’/
+q
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8‹Õ†‡’/
+]	java:S125^"<This block of commented-out lines of code should be removed.(­±ˆ¦ûÿÿÿÿ8ö´¨’/
+D
+java:S1481M"'Remove this unused "rs" local variable.(ÂÜ™ç8í ‡’/
